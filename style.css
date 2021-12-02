@@ -680,7 +680,7 @@ p {
     font-size: 12px;
 }
 
-#bloc-2-services p, .citations{
+.citation, .citations{
 	font-family: calibri;
     font-size: 23px;
 	line-height:1.1;
