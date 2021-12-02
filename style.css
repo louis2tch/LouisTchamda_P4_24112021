@@ -680,6 +680,24 @@ p {
     font-size: 12px;
 }
 
+#bloc-2-services p, .citations{
+	font-family: calibri;
+    font-size: 23px;
+	line-height:1.1;
+	color:#000;
+}
+.citations{
+	padding:20px;
+	font-size: 25px;
+}
+.f-italic {
+	font-style:italic;
+}
+#bloc-2-services span{
+    font-size: 15px;
+	color:#666;
+	font-style:normal;
+}
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
