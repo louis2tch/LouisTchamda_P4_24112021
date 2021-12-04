@@ -693,7 +693,7 @@ p {
 .f-italic {
 	font-style:italic;
 }
-#bloc-2-services span{
+#bloc-2-services .signe{
     font-size: 15px;
 	color:#666;
 	font-style:normal;
